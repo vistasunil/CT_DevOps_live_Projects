@@ -113,6 +113,7 @@ Every repository in your portfolio should answer these questions:
 | README | Explains purpose, architecture, setup, and validation |
 | Automation | Scripts or config files are used instead of manual steps |
 | Security | No secrets or access keys committed |
+| Profile readiness | Professional profile photo and complete bio on GitHub profile |
 | Structure | Good folder layout and reusable code |
 | Evidence | Screenshots, logs, diagrams, or demo output |
 
@@ -146,6 +147,42 @@ A clean, focused portfolio is better than a noisy one.
 ### Step 1 — Fix your GitHub profile first
 
 Create or update your profile README with clear details:
+
+Also, use a professional GitHub profile picture. Good references and style examples:
+
+* GitHub profile settings guide: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-picture
+* Canva profile photo templates: https://www.canva.com/profile-pictures/templates/
+* LinkedIn photo best-practice guide (applies well to GitHub too): https://www.linkedin.com/business/talent/blog/talent-acquisition/linkedin-profile-photo-tips
+
+Profile photo quality checklist:
+
+* clear face, neutral background, good lighting,
+* recent and authentic photo,
+* head-and-shoulders framing,
+* no distracting filters or heavy edits,
+* same photo across GitHub + LinkedIn for consistent personal branding.
+
+### Visual examples from the web (good profile style references)
+
+Use these screenshot references to understand visual quality, clarity, and structure of a strong GitHub profile:
+
+1. Full profile README layout example (clean structure + sections)
+
+![GitHub profile README layout example](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/screenshots/profile-readme-example.png)
+
+2. Polished profile preview with strong hierarchy and readability
+
+![Polished GitHub profile preview](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/screenshots/preview.png)
+
+3. Stats widget demo style (good for concise activity proof)
+
+![GitHub stats style example](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/demo.gif)
+
+4. Contribution streak card style (good for consistency signal)
+
+![GitHub streak card style example](https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/main/demo.gif)
+
+Tip: do not blindly copy these designs. Use them as reference for readability, professional tone, and clear project storytelling.
 
 ```md
 # Hi, I'm <Your Name>
