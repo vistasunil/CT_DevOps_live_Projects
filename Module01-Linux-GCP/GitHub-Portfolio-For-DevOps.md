@@ -191,8 +191,8 @@ Use these screenshot references to understand visual quality, clarity, and struc
 
 5. **Common Guidelines**
    
-* use<br /> to insert spaces between sections
-* use --- to insert a horizontal line between sections
+* use `<br />` to insert spaces between sections
+* use `---` to insert a horizontal line between sections
 * headings are automatically underlined
 * You can easily insert plain HTML into the README, e.g. <b></b> to emphasize text, align="center" to center text, headings and images
 * If you want to see the code of my README, you can easily view it like any other code on GitHub by clicking on the pencil icon in the upper right corner.
