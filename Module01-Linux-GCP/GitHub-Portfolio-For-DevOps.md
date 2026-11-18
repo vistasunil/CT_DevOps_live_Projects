@@ -160,23 +160,58 @@ Profile photo quality checklist:
 * no distracting filters or heavy edits,
 * same photo across GitHub + LinkedIn for consistent personal branding.
 
-### Visual examples from the web (good profile style references)
+### Visual examples from the web (good profile style references) to update your profile
 
 Use these screenshot references to understand visual quality, clarity, and structure of a strong GitHub profile:
 
-1. Full profile README layout example (clean structure + sections)
+1. **Header**
+   Add a solid header. Under the heading, you can badges that lead to all my social media accounts that I created with [shield.io](https://shields.io/).
+   <img width="761" height="237" alt="image" src="https://github.com/user-attachments/assets/1b5065d8-c2d4-4f97-8318-f09f3b4cc41f" />
 
-![GitHub profile README layout example](assets/github-profile-example-torvalds.png)
+2. **My Projects**
+   Add your projects.
+   <img width="800" height="715" alt="image" src="https://github.com/user-attachments/assets/3418f8fd-73ed-4bf6-a28b-39209e94cb45" />
 
-2. Polished profile preview with strong hierarchy and readability
+   You should fill in the About section completely to have as much information as possible about your project that the generator will use. There are many different colorful themes for your statistics.
 
-![Polished GitHub profile preview](assets/github-profile-example-anuraghazra.png)
+   <img width="800" height="688" alt="image" src="https://github.com/user-attachments/assets/547c1498-9e6a-4768-90e9-527fac171afd" />
 
-3. Stats widget demo style (good for concise activity proof)
+3. **About Me**
+   You can put whatever you want in the "About me" section. If anyone has made it to this section, they are already interested.
+   You can write about your latest achievement, what you are working on, and how you visualize the tools you work with (which you have also added to the header).
+
+   <img width="799" height="547" alt="image" src="https://github.com/user-attachments/assets/7665a4f8-7dd1-40a7-86f0-bbd33f3d1b4a" />
+
+4. **Footer**
+
+   <img width="800" height="414" alt="image" src="https://github.com/user-attachments/assets/cf2618b4-ce83-46d5-94e6-4c0c904e0256" />
+
+   At the bottom of the profile, you can add statistics about your time on GitHub and the programming languages or tools you use most often. These stats are also generated using [GitHub stats](https://github.com/anuraghazra/github-readme-stats).
+   You can also add links to your latest blog articles.
+
+5. **Common Guidelines**
+   
+* use<br /> to insert spaces between sections
+* use --- to insert a horizontal line between sections
+* headings are automatically underlined
+* You can easily insert plain HTML into the README, e.g. <b></b> to emphasize text, align="center" to center text, headings and images
+* If you want to see the code of my README, you can easily view it like any other code on GitHub by clicking on the pencil icon in the upper right corner.
+
+You can prefer to only make your outstanding projects available to the public where the code is clean, a README file has been created. This also makes it easier for interviewers, when scrolling through your repositories so they don't get stuck on a project you haven't finished and don't want anyone to see yet.
+
+There is so much more you can add to your profile, like different fonts, styling, etc. Just google it (e.g. Awesome GitHub README profiles) and get inspired by these great READMEs.
+
+6. **Full profile README layout example (clean structure + sections)**
+
+<img width="1794" height="5627" alt="Screenshot_18-11-2026_103453_github com" src="https://github.com/user-attachments/assets/b156a2df-677a-4a0d-9761-693b91298c16" />
+
+[More examples here](https://zzetao.github.io/awesome-github-profile/)
+
+7. **Stats widget demo style (good for concise activity proof)**
 
 ![GitHub stats style example](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/public/demo.gif)
 
-4. Contribution streak card style (good for consistency signal)
+8. **Contribution streak card style (good for consistency signal)**
 
 ![GitHub streak card style example](https://user-images.githubusercontent.com/20955511/114579753-dbac8780-9c86-11eb-97dd-207039f67d20.gif)
 
