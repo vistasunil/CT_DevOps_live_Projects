@@ -23,8 +23,6 @@
 #
 </br>
 
-## $`\textcolor{red}{\text{NOTE: USE UBUNTU 26.04 LTS VIRTUAL MACHINES FOR ALL THE LABS}}`$
-
 # Project 03 — GitHub Portfolio That Helps You Get a DevOps Job
 
 | | |
@@ -168,19 +166,19 @@ Use these screenshot references to understand visual quality, clarity, and struc
 
 1. Full profile README layout example (clean structure + sections)
 
-![GitHub profile README layout example](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/screenshots/profile-readme-example.png)
+![GitHub profile README layout example](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/public/og-image.png)
 
 2. Polished profile preview with strong hierarchy and readability
 
-![Polished GitHub profile preview](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/screenshots/preview.png)
+![Polished GitHub profile preview](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/public/mdg.png)
 
 3. Stats widget demo style (good for concise activity proof)
 
-![GitHub stats style example](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/demo.gif)
+![GitHub stats style example](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/public/demo.gif)
 
 4. Contribution streak card style (good for consistency signal)
 
-![GitHub streak card style example](https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/main/demo.gif)
+![GitHub streak card style example](https://user-images.githubusercontent.com/20955511/114579753-dbac8780-9c86-11eb-97dd-207039f67d20.gif)
 
 Tip: do not blindly copy these designs. Use them as reference for readability, professional tone, and clear project storytelling.
 
