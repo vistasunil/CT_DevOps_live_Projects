@@ -166,11 +166,11 @@ Use these screenshot references to understand visual quality, clarity, and struc
 
 1. Full profile README layout example (clean structure + sections)
 
-![GitHub profile README layout example](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/public/og-image.png)
+![GitHub profile README layout example](assets/github-profile-example-torvalds.png)
 
 2. Polished profile preview with strong hierarchy and readability
 
-![Polished GitHub profile preview](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/public/mdg.png)
+![Polished GitHub profile preview](assets/github-profile-example-anuraghazra.png)
 
 3. Stats widget demo style (good for concise activity proof)
 
